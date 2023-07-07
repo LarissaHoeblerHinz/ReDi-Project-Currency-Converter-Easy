@@ -1,4 +1,4 @@
-# exception handling for entire program hence looped code in try statement
+# exception handling for entire program within try statement
 try:
     print("Welcome to our Exchange")
 
